@@ -10,6 +10,10 @@ if (ika >= 15) {
 
 System.out.println("Saat ajaa mopoa"); }
 
+if ( ika >= 18) {
+System.out.println("Saat ajaa autoa"); 
+}
+
 
 } else if (ika >= 65) {
 
