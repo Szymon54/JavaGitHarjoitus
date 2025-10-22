@@ -23,6 +23,8 @@ System.out.println("Olet eläkeläinen");
 
 System.out.println("Olet aikuinen");
 
+
+System.out.println("Muista nauttia elämästä!");
 } }
 }
 
